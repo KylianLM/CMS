@@ -6,7 +6,6 @@
       "email": "kylian.le.mette@gmail.com"
     }
   ],
-  "require": {},
   "autoload": {
     "psr-4": {
       "App\\": "App"
