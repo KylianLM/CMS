@@ -1,10 +1,15 @@
 {
-    "name": "kylian_lm/cms",
-    "authors": [
-        {
-            "name": "Kylian LE METTE",
-            "email": "kylian.le.mette@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "kylian_lm/cms",
+  "authors": [
+    {
+      "name": "Kylian LE METTE",
+      "email": "kylian.le.mette@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "App"
+    }
+  }
 }
